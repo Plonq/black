@@ -1173,7 +1173,7 @@ Options:
 
 ### primer config file
 
-The config is `JSON` format. It's main element is the `"projects"` dictionary. Below
+The config is `JSON` format. Its main element is the `"projects"` dictionary. Below
 explains each parameter:
 
 ```json
