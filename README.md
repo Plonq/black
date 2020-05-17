@@ -1133,7 +1133,7 @@ accepted to add hg support)_.
   - Run black and record result
   - Clean up repository checkout _(can optionally be disabled via `--keep`)_
 - Display results summary to screen
-- Default to cleaning up `--work-dir` (which defaults to tempfile schemantics)
+- Default to cleaning up `--work-dir` (which defaults to tempfile semantics)
 - Return
   - 0 for successful run
   - < 0 for environment / internal error
