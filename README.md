@@ -1120,7 +1120,7 @@ _Black_.
 
 ## black-primer
 
-`black-primer` is a tool built for CI (and huumans) to have black `--check` a number of
+`black-primer` is a tool built for CI (and humans) to have black `--check` a number of
 (configured in `primer.json`) Git accessible projects in parallel. _(A PR will be
 accepted to add hg support)_.
 
